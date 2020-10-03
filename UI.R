@@ -77,7 +77,7 @@ shinyUI(
                       a("https://github.com/MohamedEssmat/Data_Developing_Week4_Assignment"),
                       hr(),
                       h4("I hope you like the Shiny App"),
-                      h4("The name of the repository is Developing Data Products Week 4 Course Project")
+                      h4("The name of the repository is Data_Developing_Week4_Assignment")
              )
   )
 )
